@@ -1,1 +1,1 @@
- $("#main").append([Ryan Ko]);
+ $("#main").append(["Ryan Ko"]);
